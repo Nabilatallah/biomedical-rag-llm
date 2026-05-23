@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="rag-llm_banner.png" width="100%">
+  <img src="rag-llm_banner_01.png" width="100%">
 </p>
 
 # Biomedical RAG and LLM Platform for Scientific Literature Intelligence
@@ -18,6 +18,14 @@ Biomedical RAG and LLM platform for scientific literature intelligence, clinical
 ![Clinical AI](https://img.shields.io/badge/Clinical-AI-important)
 ![HPC](https://img.shields.io/badge/HPC-GPU_Accelerated-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Architecture-FF9900?logo=amazonaws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon-Bedrock-232F3E?logo=amazonaws&logoColor=white)
+![Amazon SageMaker](https://img.shields.io/badge/Amazon-SageMaker-FF9900?logo=amazonaws&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-Vector_Search-005EB8)
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=awslambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon-S3-569A31?logo=amazons3&logoColor=white)
+![Serverless](https://img.shields.io/badge/Architecture-Serverless-orange)
+![Cloud Native](https://img.shields.io/badge/Deployment-Cloud_Native-blueviolet)
 
 </p>
 
