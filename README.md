@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="rag-llm_banner_01.png" width="100%">
+  <img src="rag_llm_banner_01.png" width="100%">
 </p>
 
 # Biomedical RAG and LLM Platform for Scientific Literature Intelligence
